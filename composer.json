@@ -1,0 +1,16 @@
+{
+    "name": "tereta/framework.debug",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Framework\\Debug\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tereta Alexander",
+            "email": "tereta.alexander@gmail.com"
+        }
+    ],
+    "require": {}
+}
